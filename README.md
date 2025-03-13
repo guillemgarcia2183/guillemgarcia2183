@@ -1,7 +1,7 @@
 ## About Me:
-🎓 Final-year Data Engineering student at UAB
-🛠️ Passionate about AI, Data Management, Data Visualization, Data Protection & Security
-🐍 Python Enthusiast
+🎓 Final-year Data Engineering student at UAB <br/>
+🛠️ Passionate about AI, Data Management, Data Visualization, Data Protection & Security <br/>
+🐍 Python Enthusiast <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggarciadausa/) 
