@@ -8,8 +8,8 @@
 
 ## Highlighted Projects
   * `Activity Tracker`: Screen Recording and Deep Learning for User Behavior Detection. (2024)
-  *  **Solar-System**: A Real-Scale Solar System simulator (planet, moons, asteroids, stars) built with OpenGL in Python. (2024)
-  *  **Privacy in Dynamic Graphs**: Applying data protection methods and graph prediction models for dynamic networks. (Ongoing) 
+  *  `Solar-System`: A Real-Scale Solar System simulator (planet, moons, asteroids, stars) built with OpenGL in Python. (2024)
+  *  `Privacy in Dynamic Graphs`: Applying data protection methods and graph prediction models for dynamic networks. (Ongoing) 
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=guillemgarcia2183&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/> 
