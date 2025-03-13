@@ -1,4 +1,4 @@
-## About Me:
+## 🔍 About Me:
 🎓 Final-year Data Engineering student at UAB <br/>
 🛠️ Passionate about AI, Data Management, Data Visualization, Data Protection & Security <br/>
 🐍 Python Enthusiast <br/>
