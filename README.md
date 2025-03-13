@@ -1,6 +1,6 @@
 ## 🔍 About Me:
 🎓 Final-year Data Engineering student at UAB <br/>
-🛠️ Passionate about AI, Data Management, Data Visualization, Data Protection & Security <br/>
+🛠️ Passionate about Data Management, Data Visualization, Data Protection & Security and AI <br/>
 🐍 Python Enthusiast <br/>
 
 ## 💻 Tech Stack:
